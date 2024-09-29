@@ -30,3 +30,21 @@
 2024-Sep-28-15:20:22 : Data loaded to Database as a table, Executing queries
 2024-Sep-28-15:20:22 : Process Complete
 2024-Sep-28-15:20:22 : Server Connection closed
+2024-Sep-28-20:21:59 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Sep-28-20:22:00 [INFO] : Data extraction successful
+2024-Sep-28-20:22:00 [INFO] : Data extraction complete. Initiating transformation process
+2024-Sep-28-20:22:00 [INFO] : Data transformation successful
+2024-Sep-28-20:22:00 [INFO] : Data transformation complete. Initiating loading process
+2024-Sep-28-20:22:00 [INFO] : Data successfully saved to ./Largest_banks_data.csv
+2024-Sep-28-20:22:00 [INFO] : Data successfully loaded to Largest_banks table
+2024-Sep-28-20:22:00 [INFO] : Data loaded to Database as a table, executing queries
+2024-Sep-28-20:22:00 [INFO] : Server connection closed
+2024-Sep-28-20:23:27 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Sep-28-20:23:27 [INFO] : Data extraction successful
+2024-Sep-28-20:23:27 [INFO] : Data extraction complete. Initiating transformation process
+2024-Sep-28-20:23:27 [INFO] : Data transformation successful
+2024-Sep-28-20:23:27 [INFO] : Data transformation complete. Initiating loading process
+2024-Sep-28-20:23:27 [INFO] : Data successfully saved to ./Largest_banks_data.csv
+2024-Sep-28-20:23:27 [INFO] : Data successfully loaded to Largest_banks table
+2024-Sep-28-20:23:27 [INFO] : Data loaded to Database as a table, executing queries
+2024-Sep-28-20:23:27 [INFO] : Server connection closed
