@@ -1,4 +1,4 @@
 # OS metadata files
 .DS_Store
 .Thumbs.db
-banks_project.ipynb
+__pycache__/
