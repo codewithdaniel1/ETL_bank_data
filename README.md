@@ -1,9 +1,5 @@
 # Acquiring and Processing Information on the World's Largest Banks
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpregismond%2Fpython-project-for-data-engineering&label=Visitors&countColor=%230d76a8&style=flat&labelStyle=none)
-[![License](https://img.shields.io/badge/License-Apache_2.0-0D76A8?style=flat)](https://opensource.org/licenses/Apache-2.0)
-[![Python 3.11](https://img.shields.io/badge/Python-3.11-green.svg)](https://shields.io/)
-
 ## Disclaimer
 
 This repository contains my submission for the ***Final Project: Acquiring and processing information on world's largest banks***. The original files were provided by the IBM Skills Network as part of the **[Python Project for Data Engineering](https://www.coursera.org/learn/python-project-for-data-engineering)** course on Coursera.
@@ -67,7 +63,7 @@ In such a situation, try executing the code again. In case the problem persists,
 Install the required libraries using the provided `requirements.txt` file. The command syntax is:
 
 ```bash
-python3.11 -m pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 Download the required exchange rate file using the terminal command:
@@ -79,13 +75,5 @@ wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkill
 Execute the code using the command:
 
 ```bash
-python3.11 banks_project.py
+python main.py
 ```
-
-## Learner
-
-[Pravin Regismond](https://www.linkedin.com/in/pregismond)
-
-## Acknowledgments
-
-* IBM Skills Network © IBM Corporation 2023. All rights reserved.
