@@ -1,9 +1,5 @@
 # Acquiring and Processing Information on the World's Largest Banks
 
-## Disclaimer
-
-This repository contains my submission for the ***Final Project: Acquiring and processing information on world's largest banks***. The original files were provided by the IBM Skills Network as part of the **[Python Project for Data Engineering](https://www.coursera.org/learn/python-project-for-data-engineering)** course on Coursera.
-
 ### Usage
 
 * You are welcome to use this repository as a reference or starting point for your own project.
