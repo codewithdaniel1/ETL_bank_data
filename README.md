@@ -75,5 +75,5 @@ wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkill
 Execute the code using the command:
 
 ```bash
-python main.py
+python src/main.py
 ```
