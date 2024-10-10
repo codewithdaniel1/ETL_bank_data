@@ -49,3 +49,362 @@
 2024-Oct-02-18:35:12 [INFO] : Data successfully loaded to Largest_banks table
 2024-Oct-02-18:35:12 [INFO] : Data loaded to Database as a table, executing queries
 2024-Oct-02-18:35:12 [INFO] : Server connection closed
+2024-Oct-02-18:57:37 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-02-18:57:38 [INFO] : Data extraction successful
+2024-Oct-02-18:57:38 [INFO] : Data extraction complete. Initiating transformation process
+2024-Oct-02-18:57:38 [INFO] : Data transformation successful
+2024-Oct-02-18:57:38 [INFO] : Data transformation complete. Initiating loading process
+2024-Oct-02-18:57:38 [INFO] : Data successfully saved to ./Largest_banks_data.csv
+2024-Oct-02-18:57:38 [INFO] : Data successfully loaded to Largest_banks table
+2024-Oct-02-18:57:38 [INFO] : Data loaded to Database as a table, executing queries
+2024-Oct-02-18:57:38 [INFO] : Server connection closed
+2024-Oct-09-21:42:15 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-21:42:19 [INFO] : Data extraction successful
+2024-Oct-09-21:42:19 [INFO] : Data extraction complete. Initiating transformation process
+2024-Oct-09-21:42:19 [INFO] : Data transformation successful
+2024-Oct-09-21:42:19 [INFO] : Data transformation complete. Initiating loading process
+2024-Oct-09-21:42:19 [INFO] : Data successfully saved to ../Largest_banks_data.csv
+2024-Oct-09-21:42:19 [INFO] : Data successfully loaded to Largest_banks table
+2024-Oct-09-21:42:19 [INFO] : Data loaded to Database as a table, executing queries
+2024-Oct-09-21:42:19 [INFO] : Server connection closed
+2024-Oct-09-21:44:27 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-21:44:27 [INFO] : Data extraction successful
+2024-Oct-09-21:44:27 [INFO] : Data extraction complete. Initiating transformation process
+2024-Oct-09-21:44:27 [INFO] : Data transformation successful
+2024-Oct-09-21:44:27 [INFO] : Data transformation complete. Initiating loading process
+2024-Oct-09-21:44:27 [INFO] : Data successfully saved to ../Largest_banks_data.csv
+2024-Oct-09-21:44:27 [INFO] : Data successfully loaded to Largest_banks table
+2024-Oct-09-21:44:27 [INFO] : Data loaded to Database as a table, executing queries
+2024-Oct-09-21:44:27 [INFO] : Server connection closed
+2024-Oct-09-21:47:10 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-21:47:10 [INFO] : Data extraction successful
+2024-Oct-09-21:47:10 [INFO] : Data extraction complete. Initiating transformation process
+2024-Oct-09-21:47:10 [INFO] : Data transformation successful
+2024-Oct-09-21:47:10 [INFO] : Data transformation complete. Initiating loading process
+2024-Oct-09-21:47:10 [INFO] : Data successfully saved to ./Largest_banks_data.csv
+2024-Oct-09-21:47:10 [INFO] : Data successfully loaded to Largest_banks table
+2024-Oct-09-21:47:10 [INFO] : Data loaded to Database as a table, executing queries
+2024-Oct-09-21:47:10 [INFO] : Server connection closed
+2024-Oct-09-22:04:46 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:04:52 [ERROR] : Attempt 1: Data extraction failed: could not convert string to float: '5,742.86'
+2024-Oct-09-22:04:57 [ERROR] : Attempt 2: Data extraction failed: could not convert string to float: '5,742.86'
+2024-Oct-09-22:05:02 [ERROR] : Attempt 3: Data extraction failed: could not convert string to float: '5,742.86'
+2024-Oct-09-22:05:07 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-22:05:07 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-22:07:07 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:07:07 [ERROR] : Attempt 1: Data extraction failed: could not convert string to float: '5,742.86'
+2024-Oct-09-22:07:12 [ERROR] : Attempt 2: Data extraction failed: could not convert string to float: '5,742.86'
+2024-Oct-09-22:07:18 [ERROR] : Attempt 3: Data extraction failed: could not convert string to float: '5,742.86'
+2024-Oct-09-22:07:23 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-22:07:23 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-22:08:21 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:08:21 [ERROR] : Attempt 1: Data extraction failed: could not convert string to float: '5,742.86'
+2024-Oct-09-22:08:26 [ERROR] : Attempt 2: Data extraction failed: could not convert string to float: '5,742.86'
+2024-Oct-09-22:08:32 [ERROR] : Attempt 3: Data extraction failed: could not convert string to float: '5,742.86'
+2024-Oct-09-22:08:37 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-22:08:37 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-22:09:34 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:09:34 [INFO] : Data extraction successful
+2024-Oct-09-22:09:34 [INFO] : Data extraction complete. Initiating transformation process
+2024-Oct-09-22:09:34 [ERROR] : Data transformation failed: 'MC_USD_Billion'
+2024-Oct-09-22:09:34 [ERROR] : Transformation failed. Aborting process.
+2024-Oct-09-22:09:58 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:09:59 [INFO] : Data extraction successful
+2024-Oct-09-22:09:59 [INFO] : Data extraction complete. Initiating transformation process
+2024-Oct-09-22:09:59 [ERROR] : Data transformation failed: 'MC_USD_Billion'
+2024-Oct-09-22:09:59 [ERROR] : Transformation failed. Aborting process.
+2024-Oct-09-22:20:48 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:20:50 [INFO] : Data extraction successful
+2024-Oct-09-22:20:50 [INFO] : Data extraction complete. Initiating transformation process
+2024-Oct-09-22:20:50 [INFO] : Data transformation successful
+2024-Oct-09-22:20:50 [INFO] : Data transformation complete. Initiating loading process
+2024-Oct-09-22:20:50 [INFO] : Data successfully saved to ./Largest_banks_data.csv
+2024-Oct-09-22:20:50 [INFO] : Data successfully loaded to Largest_banks table
+2024-Oct-09-22:20:50 [INFO] : Data loaded to Database as a table, executing queries
+2024-Oct-09-22:20:50 [INFO] : Server connection closed
+2024-Oct-09-22:24:51 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:24:52 [ERROR] : Attempt 1: Data extraction failed: list index out of range
+2024-Oct-09-22:24:57 [ERROR] : Attempt 2: Data extraction failed: list index out of range
+2024-Oct-09-22:25:02 [ERROR] : Attempt 3: Data extraction failed: list index out of range
+2024-Oct-09-22:25:07 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-22:25:07 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-22:27:00 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:27:00 [ERROR] : Attempt 1: Data extraction failed: list index out of range
+2024-Oct-09-22:27:06 [ERROR] : Attempt 2: Data extraction failed: list index out of range
+2024-Oct-09-22:27:11 [ERROR] : Attempt 3: Data extraction failed: list index out of range
+2024-Oct-09-22:27:16 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-22:27:16 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-22:32:41 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:32:42 [ERROR] : Attempt 1: Data extraction failed: list index out of range
+2024-Oct-09-22:32:48 [ERROR] : Attempt 2: Data extraction failed: list index out of range
+2024-Oct-09-22:32:53 [ERROR] : Attempt 3: Data extraction failed: list index out of range
+2024-Oct-09-22:32:58 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-22:32:58 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-22:34:37 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:34:38 [ERROR] : Attempt 1: Data extraction failed: list index out of range
+2024-Oct-09-22:34:43 [ERROR] : Attempt 2: Data extraction failed: list index out of range
+2024-Oct-09-22:34:48 [ERROR] : Attempt 3: Data extraction failed: list index out of range
+2024-Oct-09-22:34:53 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-22:34:53 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-22:36:21 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:36:21 [ERROR] : Attempt 1: Data extraction failed: list index out of range
+2024-Oct-09-22:36:27 [ERROR] : Attempt 2: Data extraction failed: list index out of range
+2024-Oct-09-22:36:32 [ERROR] : Attempt 3: Data extraction failed: list index out of range
+2024-Oct-09-22:36:37 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-22:36:37 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-22:37:28 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:37:28 [ERROR] : Attempt 1: Data extraction failed: list index out of range
+2024-Oct-09-22:37:33 [ERROR] : Attempt 2: Data extraction failed: list index out of range
+2024-Oct-09-22:37:39 [ERROR] : Attempt 3: Data extraction failed: list index out of range
+2024-Oct-09-22:37:44 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-22:37:44 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-22:38:27 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:38:28 [ERROR] : Attempt 1: Data extraction failed: list index out of range
+2024-Oct-09-22:38:34 [ERROR] : Attempt 2: Data extraction failed: list index out of range
+2024-Oct-09-22:38:39 [ERROR] : Attempt 3: Data extraction failed: list index out of range
+2024-Oct-09-22:38:44 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-22:38:44 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-22:39:43 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:39:43 [ERROR] : Attempt 1: Data extraction failed: list index out of range
+2024-Oct-09-22:39:48 [ERROR] : Attempt 2: Data extraction failed: list index out of range
+2024-Oct-09-22:39:54 [ERROR] : Attempt 3: Data extraction failed: list index out of range
+2024-Oct-09-22:39:59 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-22:39:59 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-22:40:06 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:40:07 [ERROR] : Attempt 1: Data extraction failed: list index out of range
+2024-Oct-09-22:40:13 [ERROR] : Attempt 2: Data extraction failed: list index out of range
+2024-Oct-09-22:40:18 [ERROR] : Attempt 3: Data extraction failed: list index out of range
+2024-Oct-09-22:40:23 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-22:40:23 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-22:47:21 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:47:22 [ERROR] : Attempt 1: Data extraction failed: list index out of range
+2024-Oct-09-22:47:28 [ERROR] : Attempt 2: Data extraction failed: list index out of range
+2024-Oct-09-22:47:33 [ERROR] : Attempt 3: Data extraction failed: list index out of range
+2024-Oct-09-22:47:38 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-22:47:38 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-22:47:42 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:47:43 [ERROR] : Attempt 1: Data extraction failed: list index out of range
+2024-Oct-09-22:47:48 [ERROR] : Attempt 2: Data extraction failed: list index out of range
+2024-Oct-09-22:47:54 [ERROR] : Attempt 3: Data extraction failed: list index out of range
+2024-Oct-09-22:47:59 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-22:47:59 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-22:48:26 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:48:27 [ERROR] : Attempt 1: Data extraction failed: list index out of range
+2024-Oct-09-22:48:32 [ERROR] : Attempt 2: Data extraction failed: list index out of range
+2024-Oct-09-22:48:38 [ERROR] : Attempt 3: Data extraction failed: list index out of range
+2024-Oct-09-22:48:43 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-22:48:43 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-22:49:21 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:49:21 [ERROR] : Attempt 1: Data extraction failed: list index out of range
+2024-Oct-09-22:49:26 [ERROR] : Attempt 2: Data extraction failed: list index out of range
+2024-Oct-09-22:49:32 [ERROR] : Attempt 3: Data extraction failed: list index out of range
+2024-Oct-09-22:49:37 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-22:49:37 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-22:51:39 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:53:35 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:53:36 [INFO] : Data extraction successful
+2024-Oct-09-22:53:36 [INFO] : Data extraction complete. Initiating transformation process
+2024-Oct-09-22:53:36 [INFO] : Data transformation successful
+2024-Oct-09-22:53:36 [INFO] : Data transformation complete. Initiating loading process
+2024-Oct-09-22:53:36 [INFO] : Data successfully saved to ./Largest_banks_data.csv
+2024-Oct-09-22:53:37 [INFO] : Data successfully loaded to Largest_banks table
+2024-Oct-09-22:53:37 [INFO] : Data loaded to Database as a table, executing queries
+2024-Oct-09-22:53:37 [INFO] : Server connection closed
+2024-Oct-09-22:53:48 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:53:49 [ERROR] : Attempt 1: Data extraction failed: list index out of range
+2024-Oct-09-22:53:54 [ERROR] : Attempt 2: Data extraction failed: list index out of range
+2024-Oct-09-22:54:48 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:54:48 [ERROR] : Attempt 1: Data extraction failed: list index out of range
+2024-Oct-09-22:54:54 [ERROR] : Attempt 2: Data extraction failed: list index out of range
+2024-Oct-09-22:54:59 [ERROR] : Attempt 3: Data extraction failed: list index out of range
+2024-Oct-09-22:55:04 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-22:55:04 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-22:56:21 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:56:21 [ERROR] : Attempt 1: Data extraction failed: list index out of range
+2024-Oct-09-22:56:27 [ERROR] : Attempt 2: Data extraction failed: list index out of range
+2024-Oct-09-22:56:32 [ERROR] : Attempt 3: Data extraction failed: list index out of range
+2024-Oct-09-22:56:37 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-22:56:37 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-22:57:18 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:57:19 [ERROR] : Attempt 1: Data extraction failed: list index out of range
+2024-Oct-09-22:57:24 [ERROR] : Attempt 2: Data extraction failed: list index out of range
+2024-Oct-09-22:57:29 [ERROR] : Attempt 3: Data extraction failed: list index out of range
+2024-Oct-09-22:57:34 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-22:57:34 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-22:57:58 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:57:59 [ERROR] : Attempt 1: Data extraction failed: list index out of range
+2024-Oct-09-22:58:04 [ERROR] : Attempt 2: Data extraction failed: list index out of range
+2024-Oct-09-22:58:09 [ERROR] : Attempt 3: Data extraction failed: list index out of range
+2024-Oct-09-22:58:14 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-22:58:14 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-22:58:56 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:58:57 [ERROR] : Attempt 1: Data extraction failed: list index out of range
+2024-Oct-09-22:59:02 [ERROR] : Attempt 2: Data extraction failed: list index out of range
+2024-Oct-09-22:59:08 [ERROR] : Attempt 3: Data extraction failed: list index out of range
+2024-Oct-09-22:59:13 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-22:59:13 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-22:59:20 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:59:20 [ERROR] : Attempt 1: Data extraction failed: 1
+2024-Oct-09-22:59:26 [ERROR] : Attempt 2: Data extraction failed: 1
+2024-Oct-09-22:59:31 [ERROR] : Attempt 3: Data extraction failed: 1
+2024-Oct-09-22:59:36 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-22:59:36 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-22:59:40 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-22:59:40 [ERROR] : Attempt 1: Data extraction failed: list index out of range
+2024-Oct-09-22:59:45 [ERROR] : Attempt 2: Data extraction failed: list index out of range
+2024-Oct-09-22:59:51 [ERROR] : Attempt 3: Data extraction failed: list index out of range
+2024-Oct-09-22:59:56 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-22:59:56 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-23:00:57 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-23:00:58 [ERROR] : Attempt 1: Data extraction failed: list index out of range
+2024-Oct-09-23:01:03 [ERROR] : Attempt 2: Data extraction failed: list index out of range
+2024-Oct-09-23:01:09 [ERROR] : Attempt 3: Data extraction failed: list index out of range
+2024-Oct-09-23:01:14 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-23:01:14 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-23:01:30 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-23:01:30 [ERROR] : Attempt 1: Data extraction failed: could not convert string to float: '–'
+2024-Oct-09-23:01:36 [ERROR] : Attempt 2: Data extraction failed: could not convert string to float: '–'
+2024-Oct-09-23:01:41 [ERROR] : Attempt 3: Data extraction failed: could not convert string to float: '–'
+2024-Oct-09-23:01:46 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-23:01:46 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-23:02:11 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-23:02:11 [ERROR] : Attempt 1: Data extraction failed: could not convert string to float: 'N/A'
+2024-Oct-09-23:02:17 [ERROR] : Attempt 2: Data extraction failed: could not convert string to float: 'N/A'
+2024-Oct-09-23:02:22 [ERROR] : Attempt 3: Data extraction failed: could not convert string to float: 'N/A'
+2024-Oct-09-23:02:27 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-23:02:27 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-23:04:14 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-23:04:15 [ERROR] : Attempt 1: Data extraction failed: could not convert string to float: 'N/A'
+2024-Oct-09-23:04:21 [ERROR] : Attempt 2: Data extraction failed: could not convert string to float: 'N/A'
+2024-Oct-09-23:04:26 [ERROR] : Attempt 3: Data extraction failed: could not convert string to float: 'N/A'
+2024-Oct-09-23:04:31 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-23:04:31 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-23:04:36 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-23:04:36 [ERROR] : Attempt 1: Data extraction failed: could not convert string to float: '2 (DWS USA Corportation)[7]'
+2024-Oct-09-23:04:42 [ERROR] : Attempt 2: Data extraction failed: could not convert string to float: '2 (DWS USA Corportation)[7]'
+2024-Oct-09-23:04:47 [ERROR] : Attempt 3: Data extraction failed: could not convert string to float: '2 (DWS USA Corportation)[7]'
+2024-Oct-09-23:04:52 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-23:04:52 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-23:06:37 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-23:06:37 [ERROR] : Attempt 1: Data extraction failed: 'NoneType' object is not callable
+2024-Oct-09-23:06:43 [ERROR] : Attempt 2: Data extraction failed: 'NoneType' object is not callable
+2024-Oct-09-23:06:48 [ERROR] : Attempt 3: Data extraction failed: 'NoneType' object is not callable
+2024-Oct-09-23:06:53 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-23:06:53 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-23:07:16 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-23:07:17 [ERROR] : Attempt 1: Data extraction failed: 'NoneType' object is not callable
+2024-Oct-09-23:07:22 [ERROR] : Attempt 2: Data extraction failed: 'NoneType' object is not callable
+2024-Oct-09-23:07:27 [ERROR] : Attempt 3: Data extraction failed: 'NoneType' object is not callable
+2024-Oct-09-23:07:32 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-23:07:32 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-23:08:29 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-23:08:30 [ERROR] : Attempt 1: Data extraction failed: 'NoneType' object is not callable
+2024-Oct-09-23:08:35 [ERROR] : Attempt 2: Data extraction failed: 'NoneType' object is not callable
+2024-Oct-09-23:08:41 [ERROR] : Attempt 3: Data extraction failed: 'NoneType' object is not callable
+2024-Oct-09-23:08:46 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-23:08:46 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-23:09:01 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-23:09:01 [ERROR] : Attempt 1: Data extraction failed: 'NoneType' object is not callable
+2024-Oct-09-23:09:07 [ERROR] : Attempt 2: Data extraction failed: 'NoneType' object is not callable
+2024-Oct-09-23:09:12 [ERROR] : Attempt 3: Data extraction failed: 'NoneType' object is not callable
+2024-Oct-09-23:09:17 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-23:09:17 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-23:09:45 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-23:09:45 [ERROR] : Attempt 1: Data extraction failed: 'NoneType' object is not callable
+2024-Oct-09-23:09:51 [ERROR] : Attempt 2: Data extraction failed: 'NoneType' object is not callable
+2024-Oct-09-23:09:56 [ERROR] : Attempt 3: Data extraction failed: 'NoneType' object is not callable
+2024-Oct-09-23:10:01 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-23:10:01 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-23:10:06 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-23:10:07 [ERROR] : Attempt 1: Data extraction failed: 'NoneType' object is not callable
+2024-Oct-09-23:10:12 [ERROR] : Attempt 2: Data extraction failed: 'NoneType' object is not callable
+2024-Oct-09-23:10:18 [ERROR] : Attempt 3: Data extraction failed: 'NoneType' object is not callable
+2024-Oct-09-23:10:23 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-23:10:23 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-23:10:37 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-23:10:37 [ERROR] : Attempt 1: Data extraction failed: 'NoneType' object is not callable
+2024-Oct-09-23:10:42 [ERROR] : Attempt 2: Data extraction failed: 'NoneType' object is not callable
+2024-Oct-09-23:10:48 [ERROR] : Attempt 3: Data extraction failed: 'NoneType' object is not callable
+2024-Oct-09-23:10:53 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-23:10:53 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-23:10:56 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-23:10:56 [ERROR] : Attempt 1: Data extraction failed: 'NoneType' object is not callable
+2024-Oct-09-23:11:02 [ERROR] : Attempt 2: Data extraction failed: 'NoneType' object is not callable
+2024-Oct-09-23:11:07 [ERROR] : Attempt 3: Data extraction failed: 'NoneType' object is not callable
+2024-Oct-09-23:11:12 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-23:11:12 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-23:12:28 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-23:12:28 [ERROR] : Attempt 1: Data extraction failed: list index out of range
+2024-Oct-09-23:12:34 [ERROR] : Attempt 2: Data extraction failed: list index out of range
+2024-Oct-09-23:12:39 [ERROR] : Attempt 3: Data extraction failed: list index out of range
+2024-Oct-09-23:12:44 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-23:12:44 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-23:15:30 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-23:15:31 [ERROR] : Attempt 1: Data extraction failed: could not convert string to float: '2 (DWS USA Corportation)'
+2024-Oct-09-23:15:36 [ERROR] : Attempt 2: Data extraction failed: could not convert string to float: '2 (DWS USA Corportation)'
+2024-Oct-09-23:15:42 [ERROR] : Attempt 3: Data extraction failed: could not convert string to float: '2 (DWS USA Corportation)'
+2024-Oct-09-23:15:47 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-23:15:47 [ERROR] : Extraction failed. Aborting process.
+2024-Oct-09-23:17:33 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-23:17:34 [INFO] : Data extraction successful
+2024-Oct-09-23:17:34 [INFO] : Data extraction complete. Initiating transformation process
+2024-Oct-09-23:17:34 [INFO] : Data transformation successful
+2024-Oct-09-23:17:34 [INFO] : Data transformation complete. Initiating loading process
+2024-Oct-09-23:17:34 [INFO] : Data successfully saved to ./Largest_banks_data.csv
+2024-Oct-09-23:17:34 [INFO] : Data successfully loaded to Largest_banks table
+2024-Oct-09-23:17:34 [INFO] : Data loaded to Database as a table, executing queries
+2024-Oct-09-23:17:34 [INFO] : Server connection closed
+2024-Oct-09-23:33:03 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-23:33:04 [INFO] : Data extraction successful
+2024-Oct-09-23:33:04 [INFO] : Data extraction complete. Initiating transformation process
+2024-Oct-09-23:33:04 [INFO] : Data transformation successful
+2024-Oct-09-23:33:04 [INFO] : Data transformation complete. Initiating loading process
+2024-Oct-09-23:33:04 [INFO] : Data successfully saved to ./Largest_banks_data.csv
+2024-Oct-09-23:33:04 [INFO] : Data successfully loaded to Largest_banks table
+2024-Oct-09-23:33:04 [INFO] : Data loaded to Database as a table, executing queries
+2024-Oct-09-23:33:05 [INFO] : Server connection closed
+2024-Oct-09-23:33:13 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-23:33:15 [INFO] : Data extraction successful
+2024-Oct-09-23:33:15 [INFO] : Data extraction complete. Initiating transformation process
+2024-Oct-09-23:33:15 [INFO] : Data transformation successful
+2024-Oct-09-23:33:15 [INFO] : Data transformation complete. Initiating loading process
+2024-Oct-09-23:33:15 [INFO] : Data successfully saved to ./Largest_banks_data.csv
+2024-Oct-09-23:33:15 [INFO] : Data successfully loaded to Largest_banks table
+2024-Oct-09-23:33:15 [INFO] : Data loaded to Database as a table, executing queries
+2024-Oct-09-23:33:15 [INFO] : Server connection closed
+2024-Oct-09-23:35:19 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-23:35:20 [INFO] : Data extraction successful
+2024-Oct-09-23:35:20 [INFO] : Largest Banks data extraction complete.
+2024-Oct-09-23:35:20 [INFO] : Data extraction successful
+2024-Oct-09-23:35:20 [INFO] : United States Banks data extraction complete.
+2024-Oct-09-23:35:20 [INFO] : Data successfully combined.
+2024-Oct-09-23:35:20 [INFO] : Data transformation successful
+2024-Oct-09-23:35:20 [INFO] : Data transformation complete.
+2024-Oct-09-23:35:20 [INFO] : Data successfully saved to ./Combined_banks_data.csv
+2024-Oct-09-23:35:20 [INFO] : Data successfully loaded to Combined_banks table
+2024-Oct-09-23:35:20 [INFO] : Data loaded to Database as a table. Executing queries.
+2024-Oct-09-23:35:20 [INFO] : Server connection closed
+2024-Oct-09-23:40:09 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-23:40:10 [INFO] : Data extraction successful
+2024-Oct-09-23:40:10 [INFO] : Largest Banks data extraction complete.
+2024-Oct-09-23:40:11 [INFO] : Data extraction successful
+2024-Oct-09-23:40:11 [INFO] : United States Banks data extraction complete.
+2024-Oct-09-23:40:11 [INFO] : Data successfully combined.
+2024-Oct-09-23:40:11 [INFO] : Data transformation successful
+2024-Oct-09-23:40:11 [INFO] : Data transformation complete.
+2024-Oct-09-23:40:11 [INFO] : Data successfully saved to ./Combined_banks_data.csv
+2024-Oct-09-23:40:11 [INFO] : Data successfully loaded to Combined_banks table
+2024-Oct-09-23:40:11 [INFO] : Data loaded to Database as a table. Executing queries.
+2024-Oct-09-23:40:11 [INFO] : Server connection closed
+2024-Oct-09-23:45:06 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-23:45:06 [INFO] : Data extraction successful
+2024-Oct-09-23:45:06 [INFO] : Largest Banks data extraction complete.
+2024-Oct-09-23:45:07 [INFO] : Data extraction successful
+2024-Oct-09-23:45:07 [INFO] : United States Banks data extraction complete.
+2024-Oct-09-23:45:07 [INFO] : Data successfully combined.
+2024-Oct-09-23:45:07 [INFO] : Data transformation successful
+2024-Oct-09-23:45:07 [INFO] : Data transformation complete.
+2024-Oct-09-23:45:07 [INFO] : Data successfully saved to ./Combined_banks_data.csv
+2024-Oct-09-23:45:07 [INFO] : Data successfully loaded to Combined_banks table
+2024-Oct-09-23:45:07 [INFO] : Data loaded to Database as a table. Executing queries.
+2024-Oct-09-23:45:07 [INFO] : Server connection closed
