@@ -1,104 +1,4 @@
-Name,TA_USD_Billion,Country,TA_GBP_Billion,TA_EUR_Billion,TA_INR_Billion
-Industrial and Commercial Bank of China,5742.86,n/a,4594.29,5340.86,476370.24
-China Construction Bank,5016.81,n/a,4013.45,4665.63,416144.39
-Agricultural Bank of China,4919.03,n/a,3935.22,4574.7,408033.54
-Bank of China,4192.12,n/a,3353.7,3898.67,347736.35
-JPMorgan Chase,3868.24,n/a,3094.59,3597.46,320870.51
-Bank of America,3051.38,n/a,2441.1,2837.78,253111.97
-Mitsubishi UFJ Financial Group,2967.91,n/a,2374.33,2760.16,246188.13
-HSBC,2864.59,n/a,2291.67,2664.07,237617.74
-BNP Paribas,2849.61,n/a,2279.69,2650.14,236375.15
-Crédit Agricole,2542.61,n/a,2034.09,2364.63,210909.5
-Citigroup,2416.68,n/a,1933.34,2247.51,200463.61
-Postal Savings Bank of China,2039.56,n/a,1631.65,1896.79,169181.5
-SMBC Group,2006.75,n/a,1605.4,1866.28,166459.91
-Mizuho Financial Group,1909.35,n/a,1527.48,1775.7,158380.58
-Bank of Communications,1883.72,n/a,1506.98,1751.86,156254.57
-Wells Fargo,1881.02,n/a,1504.82,1749.35,156030.61
-Banco Santander,1853.86,n/a,1483.09,1724.09,153777.69
-Barclays,1823.84,n/a,1459.07,1696.17,151287.53
-Japan Post Bank,1719.92,n/a,1375.94,1599.53,142667.36
-UBS,1679.36,n/a,1343.49,1561.8,139302.91
-Groupe BPCE,1636.35,n/a,1309.08,1521.81,135735.23
-Société Générale,1588.99,n/a,1271.19,1477.76,131806.72
-Royal Bank of Canada,1544.17,n/a,1235.34,1436.08,128088.9
-Toronto-Dominion Bank,1524.83,n/a,1219.86,1418.09,126484.65
-China Merchants Bank,1470.0,n/a,1176.0,1367.1,121936.5
-Goldman Sachs,1441.8,n/a,1153.44,1340.87,119597.31
-Deutsche Bank,1428.65,n/a,1142.92,1328.64,118506.52
-Industrial Bank (China),1343.54,n/a,1074.83,1249.49,111446.64
-China CITIC Bank,1239.28,n/a,991.42,1152.53,102798.28
-Shanghai Pudong Development Bank,1184.28,n/a,947.42,1101.38,98236.03
-Morgan Stanley,1180.23,n/a,944.18,1097.61,97900.08
-Crédit Mutuel,1180.22,n/a,944.18,1097.6,97899.25
-Lloyds Banking Group,1057.69,n/a,846.15,983.65,87735.39
-China Minsheng Bank,1051.97,n/a,841.58,978.33,87260.91
-Intesa Sanpaolo,1042.73,n/a,834.18,969.74,86494.45
-ING Group,1034.32,n/a,827.46,961.92,85796.84
-Scotiabank,1029.8,n/a,823.84,957.71,85421.91
-UniCredit,916.72,n/a,733.38,852.55,76041.92
-China Everbright Bank,913.49,n/a,730.79,849.55,75774.0
-NatWest Group,867.59,n/a,694.07,806.86,71966.59
-Bank of Montreal,859.05,n/a,687.24,798.92,71258.2
-Commonwealth Bank,837.21,n/a,669.77,778.61,69446.57
-Standard Chartered,819.92,n/a,655.94,762.53,68012.36
-La Banque postale,796.88,n/a,637.5,741.1,66101.2
-Ping An Bank,771.55,n/a,617.24,717.54,64000.07
-Banco Bilbao Vizcaya Argentaria,762.15,n/a,609.72,708.8,63220.34
-Norinchukin Bank,753.26,n/a,602.61,700.53,62482.92
-State Bank of India,694.94,n/a,555.95,646.29,57645.27
-Canadian Imperial Bank of Commerce,691.31,n/a,553.05,642.92,57344.16
-National Australia Bank,679.76,n/a,543.81,632.18,56386.09
-U.S. Bancorp,674.81,n/a,539.85,627.57,55975.49
-Rabobank,671.7,n/a,537.36,624.68,55717.52
-DZ Bank,670.13,n/a,536.1,623.22,55587.28
-Australia and New Zealand Banking Group,669.66,n/a,535.73,622.78,55548.3
-Westpac,653.39,n/a,522.71,607.65,54198.7
-Nordea,635.72,n/a,508.58,591.22,52732.97
-CaixaBank,604.03,n/a,483.22,561.75,50104.29
-Sberbank of Russia,566.07,n/a,452.86,526.45,46955.51
-KB Financial Group Inc,557.54,n/a,446.03,518.51,46247.94
-PNC Financial Services,557.26,n/a,445.81,518.25,46224.72
-Resona Holdings,557.1,n/a,445.68,518.1,46211.45
-Truist Financial Corp,555.26,n/a,444.21,516.39,46058.82
-DBS Bank,554.4,n/a,443.52,515.59,45987.48
-Danske Bank,540.66,n/a,432.53,502.81,44847.75
-Huaxia Bank,540.04,n/a,432.03,502.24,44796.32
-Shinhan Bank,537.44,n/a,429.95,499.82,44580.65
-China Guangfa Bank,528.91,n/a,423.13,491.89,43873.08
-Sumitomo Mitsui Trust Holdings,516.83,n/a,413.46,480.65,42871.05
-Commerzbank,510.25,n/a,408.2,474.53,42325.24
-Capital One,455.25,n/a,364.2,423.38,37762.99
-Hana Financial Group,452.34,n/a,361.87,420.68,37521.6
-Bank of Beijing,447.54,n/a,358.03,416.21,37123.44
-Itaú Unibanco,439.5,n/a,351.6,408.74,36456.52
-OCBC Bank,417.61,n/a,334.09,388.38,34640.75
-Nonghyup Bank,417.37,n/a,333.9,388.15,34620.84
-Bank of Jiangsu (page does not exist),410.83,n/a,328.66,382.07,34078.35
-The Bank of New York Mellon,405.78,n/a,324.62,377.38,33659.45
-ABN AMRO,405.67,n/a,324.54,377.27,33650.33
-Bank of Shanghai,405.13,n/a,324.1,376.77,33605.53
-Woori Bank,382.05,n/a,305.64,355.31,31691.05
-KBC Bank,380.33,n/a,304.26,353.71,31548.37
-China Zheshang Bank,380.14,n/a,304.11,353.53,31532.61
-Banco do Brasil,379.78,n/a,303.82,353.2,31502.75
-United Overseas Bank,376.07,n/a,300.86,349.75,31195.01
-Nomura Holdings,373.41,n/a,298.73,347.27,30974.36
-Landesbank Baden-Württemberg,346.45,n/a,277.16,322.2,28738.03
-Erste Group,346.12,n/a,276.9,321.89,28710.65
-Industrial Bank of Korea,343.49,n/a,274.79,319.45,28492.5
-Bank of Ningbo,343.05,n/a,274.44,319.04,28456.0
-Banco Bradesco,340.41,n/a,272.33,316.58,28237.01
-SEB Group,338.91,n/a,271.13,315.19,28112.58
-VTB Bank,335.11,n/a,268.09,311.65,27797.37
-Handelsbanken,331.32,n/a,265.06,308.13,27482.99
-DNB ASA,328.5,n/a,262.8,305.5,27249.08
-Qatar National Bank,323.56,n/a,258.85,300.91,26839.3
-National Bank of Canada,312.67,n/a,250.14,290.78,25935.98
-Macquarie Group,313.47,n/a,250.78,291.53,26002.34
-Nationwide Building Society,311.93,n/a,249.54,290.09,25874.59
-Raiffeisen (Switzerland),303.5,n/a,242.8,282.26,25175.32
-First Abu Dhabi Bank,302.22,n/a,241.78,281.06,25069.15
+Name,TA_USD_Billion,Location,TA_GBP_Billion,TA_EUR_Billion,TA_INR_Billion
 JPMorgan Chase,3773.0,United States,3018.4,3508.89,312970.35
 Bank of America,3072.0,United States,2457.6,2856.96,254822.4
 Citigroup,2381.0,United States,1904.8,2214.33,197503.95
@@ -201,3 +101,195 @@ Central Bancompany,19.5,United States,15.6,18.14,1617.52
 Hope Bancorp,19.0,United States,15.2,17.67,1576.05
 DWS Group,2.0,United States,1.6,1.86,165.9
 Royal Bank of Canada,0.17,United States,0.14,0.16,14.1
+DBS Bank,509.1,Singapore,407.28,473.46,42229.84
+OCBC Bank,402.2,Singapore,321.76,374.05,33362.49
+United Overseas Bank,340.7,Singapore,272.56,316.85,28261.06
+Maybank,213.2,Malaysia,170.56,198.28,17684.94
+CIMB,149.3,Malaysia,119.44,138.85,12384.44
+Bangkok Bank,130.7,Thailand,104.56,121.55,10841.56
+Kasikornbank,124.3,Thailand,99.44,115.6,10310.68
+Bank Mandiri,121.1,Indonesia,96.88,112.62,10045.24
+Bank Rakyat Indonesia,117.7,Indonesia,94.16,109.46,9763.22
+Public Bank Berhad,111.1,Malaysia,88.88,103.32,9215.74
+Krung Thai Bank,107.7,Thailand,86.16,100.16,8933.72
+Siam Commercial Bank,101.4,Thailand,81.12,94.3,8411.13
+Bank Central Asia,87.7,Indonesia,70.16,81.56,7274.72
+Bank for Investment and Development of Vietnam,77.3,Vietnam,61.84,71.89,6412.04
+BDO Unibank,69.5,Philippines,55.6,64.64,5765.02
+RHB Bank,69.5,Malaysia,55.6,64.64,5765.02
+Bank Negara Indonesia,67.7,Indonesia,54.16,62.96,5615.72
+Vietinbank,67.2,Vietnam,53.76,62.5,5574.24
+Hong Leong Bank,66.7,Malaysia,53.36,62.03,5532.76
+Vietcombank,62.1,Vietnam,49.68,57.75,5151.2
+TMB Bank,53.8,Thailand,43.04,50.03,4462.71
+Metropolitan Bank and Trust Company,49.1,Philippines,39.28,45.66,4072.84
+Industrial and Commercial Bank of China,5742.86,n/a,4594.29,5340.86,476370.24
+China Construction Bank,5016.81,n/a,4013.45,4665.63,416144.39
+Agricultural Bank of China,4919.03,n/a,3935.22,4574.7,408033.54
+Bank of China,4192.12,n/a,3353.7,3898.67,347736.35
+JPMorgan Chase,3868.24,n/a,3094.59,3597.46,320870.51
+Bank of America,3051.38,n/a,2441.1,2837.78,253111.97
+Mitsubishi UFJ Financial Group,2967.91,n/a,2374.33,2760.16,246188.13
+HSBC,2864.59,n/a,2291.67,2664.07,237617.74
+BNP Paribas,2849.61,n/a,2279.69,2650.14,236375.15
+Crédit Agricole,2542.61,n/a,2034.09,2364.63,210909.5
+Citigroup,2416.68,n/a,1933.34,2247.51,200463.61
+Postal Savings Bank of China,2039.56,n/a,1631.65,1896.79,169181.5
+SMBC Group,2006.75,n/a,1605.4,1866.28,166459.91
+Mizuho Financial Group,1909.35,n/a,1527.48,1775.7,158380.58
+Bank of Communications,1883.72,n/a,1506.98,1751.86,156254.57
+Wells Fargo,1881.02,n/a,1504.82,1749.35,156030.61
+Banco Santander,1853.86,n/a,1483.09,1724.09,153777.69
+Barclays,1823.84,n/a,1459.07,1696.17,151287.53
+Japan Post Bank,1719.92,n/a,1375.94,1599.53,142667.36
+UBS,1679.36,n/a,1343.49,1561.8,139302.91
+Groupe BPCE,1636.35,n/a,1309.08,1521.81,135735.23
+Société Générale,1588.99,n/a,1271.19,1477.76,131806.72
+Royal Bank of Canada,1544.17,n/a,1235.34,1436.08,128088.9
+Toronto-Dominion Bank,1524.83,n/a,1219.86,1418.09,126484.65
+China Merchants Bank,1470.0,n/a,1176.0,1367.1,121936.5
+Goldman Sachs,1441.8,n/a,1153.44,1340.87,119597.31
+Deutsche Bank,1428.65,n/a,1142.92,1328.64,118506.52
+Industrial Bank (China),1343.54,n/a,1074.83,1249.49,111446.64
+China CITIC Bank,1239.28,n/a,991.42,1152.53,102798.28
+Shanghai Pudong Development Bank,1184.28,n/a,947.42,1101.38,98236.03
+Morgan Stanley,1180.23,n/a,944.18,1097.61,97900.08
+Crédit Mutuel,1180.22,n/a,944.18,1097.6,97899.25
+Lloyds Banking Group,1057.69,n/a,846.15,983.65,87735.39
+China Minsheng Bank,1051.97,n/a,841.58,978.33,87260.91
+Intesa Sanpaolo,1042.73,n/a,834.18,969.74,86494.45
+ING Group,1034.32,n/a,827.46,961.92,85796.84
+Scotiabank,1029.8,n/a,823.84,957.71,85421.91
+UniCredit,916.72,n/a,733.38,852.55,76041.92
+China Everbright Bank,913.49,n/a,730.79,849.55,75774.0
+NatWest Group,867.59,n/a,694.07,806.86,71966.59
+Bank of Montreal,859.05,n/a,687.24,798.92,71258.2
+Commonwealth Bank,837.21,n/a,669.77,778.61,69446.57
+Standard Chartered,819.92,n/a,655.94,762.53,68012.36
+La Banque postale,796.88,n/a,637.5,741.1,66101.2
+Ping An Bank,771.55,n/a,617.24,717.54,64000.07
+Banco Bilbao Vizcaya Argentaria,762.15,n/a,609.72,708.8,63220.34
+Norinchukin Bank,753.26,n/a,602.61,700.53,62482.92
+State Bank of India,694.94,n/a,555.95,646.29,57645.27
+Canadian Imperial Bank of Commerce,691.31,n/a,553.05,642.92,57344.16
+National Australia Bank,679.76,n/a,543.81,632.18,56386.09
+U.S. Bancorp,674.81,n/a,539.85,627.57,55975.49
+Rabobank,671.7,n/a,537.36,624.68,55717.52
+DZ Bank,670.13,n/a,536.1,623.22,55587.28
+Australia and New Zealand Banking Group,669.66,n/a,535.73,622.78,55548.3
+Westpac,653.39,n/a,522.71,607.65,54198.7
+Nordea,635.72,n/a,508.58,591.22,52732.97
+CaixaBank,604.03,n/a,483.22,561.75,50104.29
+Sberbank of Russia,566.07,n/a,452.86,526.45,46955.51
+KB Financial Group Inc,557.54,n/a,446.03,518.51,46247.94
+PNC Financial Services,557.26,n/a,445.81,518.25,46224.72
+Resona Holdings,557.1,n/a,445.68,518.1,46211.45
+Truist Financial Corp,555.26,n/a,444.21,516.39,46058.82
+DBS Bank,554.4,n/a,443.52,515.59,45987.48
+Danske Bank,540.66,n/a,432.53,502.81,44847.75
+Huaxia Bank,540.04,n/a,432.03,502.24,44796.32
+Shinhan Bank,537.44,n/a,429.95,499.82,44580.65
+China Guangfa Bank,528.91,n/a,423.13,491.89,43873.08
+Sumitomo Mitsui Trust Holdings,516.83,n/a,413.46,480.65,42871.05
+Commerzbank,510.25,n/a,408.2,474.53,42325.24
+Capital One,455.25,n/a,364.2,423.38,37762.99
+Hana Financial Group,452.34,n/a,361.87,420.68,37521.6
+Bank of Beijing,447.54,n/a,358.03,416.21,37123.44
+Itaú Unibanco,439.5,n/a,351.6,408.74,36456.52
+OCBC Bank,417.61,n/a,334.09,388.38,34640.75
+Nonghyup Bank,417.37,n/a,333.9,388.15,34620.84
+Bank of Jiangsu (page does not exist),410.83,n/a,328.66,382.07,34078.35
+The Bank of New York Mellon,405.78,n/a,324.62,377.38,33659.45
+ABN AMRO,405.67,n/a,324.54,377.27,33650.33
+Bank of Shanghai,405.13,n/a,324.1,376.77,33605.53
+Woori Bank,382.05,n/a,305.64,355.31,31691.05
+KBC Bank,380.33,n/a,304.26,353.71,31548.37
+China Zheshang Bank,380.14,n/a,304.11,353.53,31532.61
+Banco do Brasil,379.78,n/a,303.82,353.2,31502.75
+United Overseas Bank,376.07,n/a,300.86,349.75,31195.01
+Nomura Holdings,373.41,n/a,298.73,347.27,30974.36
+Landesbank Baden-Württemberg,346.45,n/a,277.16,322.2,28738.03
+Erste Group,346.12,n/a,276.9,321.89,28710.65
+Industrial Bank of Korea,343.49,n/a,274.79,319.45,28492.5
+Bank of Ningbo,343.05,n/a,274.44,319.04,28456.0
+Banco Bradesco,340.41,n/a,272.33,316.58,28237.01
+SEB Group,338.91,n/a,271.13,315.19,28112.58
+VTB Bank,335.11,n/a,268.09,311.65,27797.37
+Handelsbanken,331.32,n/a,265.06,308.13,27482.99
+DNB ASA,328.5,n/a,262.8,305.5,27249.08
+Qatar National Bank,323.56,n/a,258.85,300.91,26839.3
+National Bank of Canada,312.67,n/a,250.14,290.78,25935.98
+Macquarie Group,313.47,n/a,250.78,291.53,26002.34
+Nationwide Building Society,311.93,n/a,249.54,290.09,25874.59
+Raiffeisen (Switzerland),303.5,n/a,242.8,282.26,25175.32
+First Abu Dhabi Bank,302.22,n/a,241.78,281.06,25069.15
+HSBC,2864.59,London,2291.67,2664.07,237617.74
+BNP Paribas,2849.61,Paris,2279.69,2650.14,236375.15
+Crédit Agricole,2542.61,Paris,2034.09,2364.63,210909.5
+Banco Santander,1853.86,"Santander, Spain",1483.09,1724.09,153777.69
+Barclays,1823.84,London,1459.07,1696.17,151287.53
+UBS,1679.36,Zürich,1343.49,1561.8,139302.91
+Groupe BPCE,1636.65,Paris,1309.32,1522.08,135760.12
+Société Générale,1588.99,Paris,1271.19,1477.76,131806.72
+Deutsche Bank,1428.65,Frankfurt,1142.92,1328.64,118506.52
+Crédit Mutuel Group,1180.22,Strasbourg,944.18,1097.6,97899.25
+Lloyds Banking Group,1057.69,Edinburgh,846.15,983.65,87735.39
+Intesa Sanpaolo,1042.73,Turin,834.18,969.74,86494.45
+ING Group,1034.32,Amsterdam,827.46,961.92,85796.84
+UniCredit,916.72,Milan,733.38,852.55,76041.92
+NatWest Group,867.59,Edinburgh,694.07,806.86,71966.59
+Standard Chartered,819.92,Shanghai,655.94,762.53,68012.36
+La Banque Postale,796.88,Paris,637.5,741.1,66101.2
+Banco Bilbao Vizcaya Argentaria,762.15,Bilbao,609.72,708.8,63220.34
+Rabobank,671.7,Utrecht,537.36,624.68,55717.52
+DZ Bank,670.13,Frankfurt,536.1,623.22,55587.28
+Itaú Unibanco,439.5,Latin America,351.6,408.74,36456.52
+Banco do Brasil,379.78,Latin America,303.82,353.2,31502.75
+Banco Bradesco,340.41,Latin America,272.33,316.58,28237.01
+Caixa Econômica Federal,300.63,Latin America,240.5,279.59,24937.26
+Santander Brasil,186.41,Latin America,149.13,173.36,15462.71
+BBVA México,158.31,Latin America,126.65,147.23,13131.81
+Banorte,106.12,Latin America,84.9,98.69,8802.65
+Banco de Crédito e Inversiones,98.1,Latin America,78.48,91.23,8137.4
+Santander México,92.97,Latin America,74.38,86.46,7711.86
+Santander Chile,87.74,Latin America,70.19,81.6,7278.03
+BTG Pactual,85.24,Latin America,68.19,79.27,7070.66
+Citibanamex,72.79,Latin America,58.23,67.69,6037.93
+Bancolombia,71.25,Latin America,57.0,66.26,5910.19
+Banco de Chile,69.36,Latin America,55.49,64.5,5753.41
+Banco del Estado de Chile,67.2,Latin America,53.76,62.5,5574.24
+Grupo Aval,60.99,Latin America,48.79,56.72,5059.12
+Scotiabank Chile,57.72,Latin America,46.18,53.68,4787.87
+Banco Safra,50.76,Latin America,40.61,47.21,4210.54
+Banco de Crédito del Perú,50.11,Latin America,40.09,46.6,4156.62
+Grupo Bolívar,41.96,Latin America,33.57,39.02,3480.58
+HSBC México,40.67,Latin America,32.54,37.82,3373.58
+Scotiabank México,38.85,Latin America,31.08,36.13,3222.61
+Banco de la Nación Argentina,33.42,Latin America,26.74,31.08,2772.19
+BAC Panama,32.24,Latin America,25.79,29.98,2674.31
+Grupo Inbursa,30.41,Latin America,24.33,28.28,2522.51
+Intercorp Perú,29.27,Latin America,23.42,27.22,2427.95
+Banco Cooperativo Sicredi,28.47,Latin America,22.78,26.48,2361.59
+Banco Citibank,28.4,Latin America,22.72,26.41,2355.78
+BBVA Perú,25.74,Latin America,20.59,23.94,2135.13
+Bicapital Corp.,24.29,Latin America,19.43,22.59,2014.86
+Banco Votorantim,23.03,Latin America,18.42,21.42,1910.34
+Banco de la República Oriental del Uruguay,22.0,Latin America,17.6,20.46,1824.9
+Banco Pichincha,21.55,Latin America,17.24,20.04,1787.57
+Banrisul,21.5,Latin America,17.2,20.0,1783.42
+BBVA Colombia,20.55,Latin America,16.44,19.11,1704.62
+Promerica Financial Corp.,19.82,Latin America,15.86,18.43,1644.07
+Grupo Financiero BI,19.24,Latin America,15.39,17.89,1595.96
+Empresa General de Inversiones (EGI),19.17,Latin America,15.34,17.83,1590.15
+Grupo Financiero Galicia,19.11,Latin America,15.29,17.77,1585.17
+Scotiabank Perú,19.11,Latin America,15.29,17.77,1585.17
+BanReservas,18.46,Latin America,14.77,17.17,1531.26
+Grupo Security,17.43,Latin America,13.94,16.21,1445.82
+Banco Provincia,16.91,Latin America,13.53,15.73,1402.68
+Republic Financial,16.74,Latin America,13.39,15.57,1388.58
+BanBajío,15.92,Latin America,12.74,14.81,1320.56
+Santander Argentina,15.25,Latin America,12.2,14.18,1264.99
+National Bank of Panama,14.6,Latin America,11.68,13.58,1211.07
+Banco Azteca,14.42,Latin America,11.54,13.41,1196.14
+NCB Financial Group,13.89,Latin America,11.11,12.92,1152.18
+Daycoval,13.37,Latin America,10.7,12.43,1109.04
