@@ -1,5 +1,3 @@
-# logging_utils.py
-
 from datetime import datetime
 
 def log_progress(message, log_file, error=False):

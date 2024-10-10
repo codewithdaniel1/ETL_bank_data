@@ -443,3 +443,39 @@
 2024-Oct-10-00:05:37 [INFO] : Data successfully loaded to Combined_banks table
 2024-Oct-10-00:05:37 [INFO] : Data loaded to Database as a table. Executing queries.
 2024-Oct-10-00:05:37 [INFO] : Server connection closed
+2024-Oct-10-00:07:33 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-10-00:07:34 [INFO] : Data extraction successful
+2024-Oct-10-00:07:34 [INFO] : Largest Banks data extraction complete.
+2024-Oct-10-00:07:34 [INFO] : Data extraction successful
+2024-Oct-10-00:07:34 [INFO] : United States Banks data extraction complete.
+2024-Oct-10-00:07:34 [INFO] : Data successfully combined.
+2024-Oct-10-00:07:34 [INFO] : Data transformation successful
+2024-Oct-10-00:07:34 [INFO] : Data transformation complete.
+2024-Oct-10-00:07:34 [INFO] : Data successfully saved to ./Combined_banks_data.csv
+2024-Oct-10-00:07:34 [INFO] : Data successfully loaded to Combined_banks table
+2024-Oct-10-00:07:34 [INFO] : Data loaded to Database as a table. Executing queries.
+2024-Oct-10-00:07:34 [INFO] : Server connection closed
+2024-Oct-10-00:09:23 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-10-00:09:23 [INFO] : Data extraction successful
+2024-Oct-10-00:09:23 [INFO] : Largest Banks data extraction complete.
+2024-Oct-10-00:09:24 [INFO] : Data extraction successful
+2024-Oct-10-00:09:24 [INFO] : United States Banks data extraction complete.
+2024-Oct-10-00:09:24 [INFO] : Data successfully combined.
+2024-Oct-10-00:09:24 [INFO] : Data transformation successful
+2024-Oct-10-00:09:24 [INFO] : Data transformation complete.
+2024-Oct-10-00:09:24 [INFO] : Data successfully saved to ./Combined_banks_data.csv
+2024-Oct-10-00:09:24 [INFO] : Data successfully loaded to Combined_banks table
+2024-Oct-10-00:09:24 [INFO] : Data loaded to Database as a table. Executing queries.
+2024-Oct-10-00:09:24 [INFO] : Server connection closed
+2024-Oct-10-00:11:00 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-10-00:11:01 [INFO] : Data extraction successful
+2024-Oct-10-00:11:01 [INFO] : Largest Banks data extraction complete.
+2024-Oct-10-00:11:02 [INFO] : Data extraction successful
+2024-Oct-10-00:11:02 [INFO] : United States Banks data extraction complete.
+2024-Oct-10-00:11:02 [INFO] : Data successfully combined.
+2024-Oct-10-00:11:02 [INFO] : Data transformation successful
+2024-Oct-10-00:11:02 [INFO] : Data transformation complete.
+2024-Oct-10-00:11:02 [INFO] : Data successfully saved to ./Combined_banks_data.csv
+2024-Oct-10-00:11:02 [INFO] : Data successfully loaded to Combined_banks table
+2024-Oct-10-00:11:02 [INFO] : Data loaded to Database as a table. Executing queries.
+2024-Oct-10-00:11:02 [INFO] : Server connection closed

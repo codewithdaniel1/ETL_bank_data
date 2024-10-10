@@ -1,5 +1,3 @@
-# database_utils.py
-
 import sqlite3
 import pandas as pd
 from logging_utils import log_progress

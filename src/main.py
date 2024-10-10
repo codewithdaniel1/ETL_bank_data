@@ -5,7 +5,7 @@ import pandas as pd
 
 # Declaring known values
 url_largest = "https://web.archive.org/web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks"
-url_us = "https://web.archive.org/web/20230314195644/https://en.wikipedia.org/wiki/List_of_largest_banks_in_the_United_States"
+url_united_states = "https://web.archive.org/web/20230314195644/https://en.wikipedia.org/wiki/List_of_largest_banks_in_the_United_States"
 csv_path = "./exchange_rate.csv"
 table_attribs = ["Name", "TA_USD_Billion"]
 output_path = "./Combined_banks_data.csv"
@@ -24,7 +24,7 @@ else:
     df_largest = pd.DataFrame()  # Initialize an empty DataFrame in case extraction fails
 
 # Step 2: Extract data from the "United States Banks"
-df_us = extract_united_states(url_us, table_attribs, log_file)
+df_us = extract_united_states(url_united_states, table_attribs, log_file)
 if df_us is not None:
     log_progress("United States Banks data extraction complete.", log_file)
 else:
@@ -52,10 +52,10 @@ else:
             log_progress("Data loaded to Database as a table. Executing queries.", log_file)
 
             # Example queries
-            run_query(f"SELECT * from {table_name}", conn, log_file)
+            run_query(f"SELECT * from {table_name} ORDER BY Country DESC", conn, log_file)
             run_query(f"SELECT AVG(TA_GBP_Billion) FROM {table_name}", conn, log_file)
-            run_query(f"SELECT MAX(TA_GBP_Billion) FROM {table_name}", conn, log_file)
-            run_query(f"SELECT Min(TA_GBP_Billion) FROM {table_name}", conn, log_file)
+            run_query(f"SELECT * FROM {table_name} WHERE Country = 'United States'", conn, log_file)
+
 
             conn.close()
             log_progress("Server connection closed", log_file)
