@@ -40,7 +40,7 @@ def extract_united_states(url, table_attribs, log_file, retries=3, delay=5):
 
                     # Convert to float using the helper function
                     ta_usd_billion = extract_numeric_value(value_text)
-                    data_dict = {"Name": name, "TA_USD_Billion": ta_usd_billion}
+                    data_dict = {"Name": name, "Country": "United States", "TA_USD_Billion": ta_usd_billion}
                     
                     df1 = pd.DataFrame(data_dict, index=[0])
                     df = pd.concat([df, df1], ignore_index=True)
@@ -72,6 +72,7 @@ def extract_largest(url, table_attribs, log_file, retries=3, delay=5):
                 col = row.find_all("td")
                 if len(col) != 0:
                     data_dict = {"Name": col[1].find_all("a")[1]["title"],
+                                 "Country": "n/a",
                                  "TA_USD_Billion": float(col[2].contents[0][:-1].replace(",", ""))}
                     df1 = pd.DataFrame(data_dict, index=[0])
                     df = pd.concat([df, df1], ignore_index=True)

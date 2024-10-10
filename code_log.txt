@@ -408,3 +408,38 @@
 2024-Oct-09-23:45:07 [INFO] : Data successfully loaded to Combined_banks table
 2024-Oct-09-23:45:07 [INFO] : Data loaded to Database as a table. Executing queries.
 2024-Oct-09-23:45:07 [INFO] : Server connection closed
+2024-Oct-09-23:48:42 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-23:49:03 [ERROR] : Attempt 1: Data extraction failed: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000020DD040ECA0>: Failed to establish a new connection: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond'))
+2024-Oct-09-23:49:29 [ERROR] : Attempt 2: Data extraction failed: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000020DD03C9730>: Failed to establish a new connection: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond'))
+2024-Oct-09-23:49:55 [ERROR] : Attempt 3: Data extraction failed: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000020DD03C9EE0>: Failed to establish a new connection: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond'))
+2024-Oct-09-23:50:00 [ERROR] : All attempts failed. Data extraction aborted.
+2024-Oct-09-23:50:00 [ERROR] : Largest Banks data extraction failed. Aborting process.
+2024-Oct-09-23:50:25 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-23:50:46 [ERROR] : Attempt 1: Data extraction failed: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002CF0A3AED90>: Failed to establish a new connection: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond'))
+2024-Oct-09-23:51:12 [ERROR] : Attempt 2: Data extraction failed: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002CF0A2F6790>: Failed to establish a new connection: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond'))
+2024-Oct-09-23:51:22 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-09-23:51:43 [ERROR] : Attempt 1: Data extraction failed: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001E95568E9D0>: Failed to establish a new connection: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond'))
+2024-Oct-09-23:52:09 [ERROR] : Attempt 2: Data extraction failed: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001E95564A6A0>: Failed to establish a new connection: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond'))
+2024-Oct-09-23:52:22 [INFO] : Data extraction successful
+2024-Oct-09-23:52:22 [INFO] : Largest Banks data extraction complete.
+2024-Oct-09-23:52:23 [INFO] : Data extraction successful
+2024-Oct-09-23:52:23 [INFO] : United States Banks data extraction complete.
+2024-Oct-09-23:52:23 [INFO] : Data successfully combined.
+2024-Oct-09-23:52:23 [INFO] : Data transformation successful
+2024-Oct-09-23:52:23 [INFO] : Data transformation complete.
+2024-Oct-09-23:52:23 [INFO] : Data successfully saved to ./Combined_banks_data.csv
+2024-Oct-09-23:52:23 [INFO] : Data successfully loaded to Combined_banks table
+2024-Oct-09-23:52:23 [INFO] : Data loaded to Database as a table. Executing queries.
+2024-Oct-09-23:52:23 [INFO] : Server connection closed
+2024-Oct-10-00:05:35 [INFO] : Preliminaries complete. Initiating ETL process
+2024-Oct-10-00:05:36 [INFO] : Data extraction successful
+2024-Oct-10-00:05:36 [INFO] : Largest Banks data extraction complete.
+2024-Oct-10-00:05:37 [INFO] : Data extraction successful
+2024-Oct-10-00:05:37 [INFO] : United States Banks data extraction complete.
+2024-Oct-10-00:05:37 [INFO] : Data successfully combined.
+2024-Oct-10-00:05:37 [INFO] : Data transformation successful
+2024-Oct-10-00:05:37 [INFO] : Data transformation complete.
+2024-Oct-10-00:05:37 [INFO] : Data successfully saved to ./Combined_banks_data.csv
+2024-Oct-10-00:05:37 [INFO] : Data successfully loaded to Combined_banks table
+2024-Oct-10-00:05:37 [INFO] : Data loaded to Database as a table. Executing queries.
+2024-Oct-10-00:05:37 [INFO] : Server connection closed
